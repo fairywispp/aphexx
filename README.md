@@ -31,7 +31,7 @@ npm (This tool comes with Node.js)
 **Installation Steps**
 Get the project files:
 
-git clone https://github.com/fairywispp/aphex.git
+git clone https://github.com/fairywispp/aphexx.git
 cd aphex
 
 Install the necessary tools:
